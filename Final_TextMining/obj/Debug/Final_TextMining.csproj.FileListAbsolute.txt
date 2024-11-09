@@ -1,0 +1,26 @@
+C:\Users\giang\source\repos\Final_TextMining\Final_TextMining\bin\Debug\Final_TextMining.exe.config
+C:\Users\giang\source\repos\Final_TextMining\Final_TextMining\bin\Debug\Final_TextMining.exe
+C:\Users\giang\source\repos\Final_TextMining\Final_TextMining\bin\Debug\Final_TextMining.pdb
+C:\Users\giang\source\repos\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.csproj.AssemblyReference.cache
+C:\Users\giang\source\repos\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.frmDangNhap.resources
+C:\Users\giang\source\repos\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.Properties.Resources.resources
+C:\Users\giang\source\repos\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.csproj.GenerateResource.cache
+C:\Users\giang\source\repos\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.csproj.CoreCompileInputs.cache
+C:\Users\giang\source\repos\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.exe
+C:\Users\giang\source\repos\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.pdb
+C:\Users\giang\source\repos\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.frmMain.resources
+C:\Users\giang\source\repos\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.ThongTinTaiKhoan.resources
+C:\Users\giang\source\repos\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.Admin.resources
+D:\Study\Text Mining\FinalProject\Final_TextMining\Final_TextMining\bin\Debug\Final_TextMining.exe.config
+D:\Study\Text Mining\FinalProject\Final_TextMining\Final_TextMining\bin\Debug\Final_TextMining.exe
+D:\Study\Text Mining\FinalProject\Final_TextMining\Final_TextMining\bin\Debug\Final_TextMining.pdb
+D:\Study\Text Mining\FinalProject\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.csproj.AssemblyReference.cache
+D:\Study\Text Mining\FinalProject\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.Admin.resources
+D:\Study\Text Mining\FinalProject\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.frmDangNhap.resources
+D:\Study\Text Mining\FinalProject\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.frmMain.resources
+D:\Study\Text Mining\FinalProject\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.Properties.Resources.resources
+D:\Study\Text Mining\FinalProject\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.ThongTinTaiKhoan.resources
+D:\Study\Text Mining\FinalProject\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.csproj.GenerateResource.cache
+D:\Study\Text Mining\FinalProject\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.csproj.CoreCompileInputs.cache
+D:\Study\Text Mining\FinalProject\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.exe
+D:\Study\Text Mining\FinalProject\Final_TextMining\Final_TextMining\obj\Debug\Final_TextMining.pdb
